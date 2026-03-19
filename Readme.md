@@ -1,4 +1,4 @@
-# FAST API + React CRUD Project
+# FAST API CRUD Project
 
 This repository contains a full-stack CRUD project:
 - `backend/` — FastAPI backend with SQLAlchemy and PostgreSQL/SQLite support
